@@ -15,14 +15,14 @@ The objective of this project was to transform café sales data into an interact
 - Sales channel performance
 - Customer purchasing patterns
 - Average order value
-- 
+  
 🛠️ Tools Used
 
 - Microsoft Power BI
 - Power Query – Data cleaning and transformation
 - DAX – Measures and calculations
 - Data Visualization – Interactive dashboard development
-- 
+  
 📊 Dashboard Pages
 
 1. Sales Overview
@@ -33,7 +33,7 @@ Key KPIs
 - Transactions: 4.4K
 - Total Amount Spent: $40K
 - Average Order Value: $3.02
-- 
+  
 Visualizations
 
 The page includes:
@@ -43,13 +43,13 @@ The page includes:
 - Revenue by Sales Channel
 - Key Insights section
 - Interactive filters for Product, Payment Method, and Sales Channel
-- 
+  
 Key Insights
 
 - Salad generated the highest revenue, with approximately $3,116.
 - July recorded the highest monthly revenue, reaching approximately $1,461.
 - Revenue remained relatively stable across most store locations.
-- 
+  
 2. Sales Analysis
   
 The Sales Analysis page provides a more detailed breakdown of sales activity.
@@ -71,7 +71,7 @@ The analysis showed that:
 - Cash and credit card payments accounted for similar transaction volumes, while digital wallet transactions were slightly lower.
 - Monthly transactions reached their highest point in July, at approximately 480 transactions.
 - Average Order Value remained relatively stable throughout the year, generally around $3.00.
-- 
+  
 💡 Project Outcome
 
 This project demonstrates how Power BI can be used to turn raw café sales data into an interactive reporting solution that makes sales trends, product performance, customer purchasing behaviour, and business performance easier to understand.
